@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CountryInfo</string>
+    <string name="action_settings">Settings</string>
+    <string name="Username">Username :</string>
+    <string name="mot_de_passe">Mot de passe :</string>
+    <string name="connexion">Connexion</string>
+    <string name="title_activity_all_countries">AllCountries</string>
+    <string name="title_activity_one_country_info">OneCountryInfo</string>
+    <string name="user_info">UserInfo</string>
+    <string name="get_all_countries">Get alls Countries</string>
+    <string name="get_One_Country_Info">Get One Country Info</string>
+    <string name="Retour">Retour</string>
+    <string name="countryInfo">All About the Country</string>
+    <string name="error_message">Error</string>
+    <string name="title_activity_list_of_countries">ListOfCountries</string>
+</resources>
